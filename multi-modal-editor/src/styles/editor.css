@@ -1,0 +1,14 @@
+.editor {
+  min-height: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.mention-dropdown li:hover {
+  background-color: #eee;
+}
+
